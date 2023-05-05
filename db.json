@@ -142,7 +142,7 @@
     },
     {
       "id": "8e1d4671-30dc-4360-ac82-b3881a1e211b",
-      "isChecked": false,
+      "isChecked": true,
       "title": "Find an alternative to JSONbin",
       "tag": "work",
       "date": "2023-05-11"
@@ -156,7 +156,7 @@
     },
     {
       "id": "5cd5db7b-4f33-4a2e-a085-4cad1b07dc7a",
-      "isChecked": false,
+      "isChecked": true,
       "title": "Complete Homework #9",
       "tag": "work",
       "date": "2023-05-10"
