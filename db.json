@@ -7,6 +7,8 @@
       "tag": [
         "work"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-03",
       "date_created": "Fri Apr 28 2023 23:59:50 GMT+0400 (Армения, стандартное время)"
     },
@@ -17,6 +19,8 @@
       "tag": [
         "work"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-10",
       "date_created": "Sat Apr 29 2023 00:00:13 GMT+0400 (Армения, стандартное время)"
     },
@@ -27,6 +31,8 @@
       "tag": [
         "work"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-17",
       "date_created": "Sat Apr 29 2023 00:00:50 GMT+0400 (Армения, стандартное время)"
     },
@@ -37,6 +43,8 @@
       "tag": [
         "home"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-12-13",
       "date_created": "Sat Apr 29 2023 00:03:04 GMT+0400 (Армения, стандартное время)"
     },
@@ -47,6 +55,8 @@
       "tag": [
         "health"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-09-07",
       "date_created": "Sat Apr 29 2023 00:03:16 GMT+0400 (Армения, стандартное время)"
     },
@@ -57,6 +67,8 @@
       "tag": [
         "home"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-01-13",
       "date_created": "Sat Apr 29 2023 00:03:34 GMT+0400 (Армения, стандартное время)"
     },
@@ -67,6 +79,8 @@
       "tag": [
         "home"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-02-17",
       "date_created": "Sun Apr 30 2023 21:20:33 GMT+0400 (Армения, стандартное время)"
     },
@@ -78,6 +92,8 @@
         "home",
         "health"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-19",
       "date_created": "Sun Apr 30 2023 21:23:06 GMT+0400 (Армения, стандартное время)"
     },
@@ -89,6 +105,8 @@
         "work",
         "other"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-11",
       "date_created": "Sun Apr 30 2023 21:24:42 GMT+0400 (Армения, стандартное время)"
     },
@@ -100,6 +118,8 @@
         "home",
         "games"
       ],
+      "description": "",
+      "subtasks": [],
       "date_complete": "2023-05-05",
       "date_created": "Mon May 01 2023 00:10:39 GMT+0400 (Армения, стандартное время)"
     }
